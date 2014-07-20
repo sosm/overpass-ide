@@ -1569,8 +1569,8 @@ var ide = new (function() {
       $.get(
         configs.short_url_service + encodeURIComponent(share_link),
         function(data) {
-          $("div#share-dialog #share_link_a")[0].href = data;
-          $("div#share-dialog #share_link_textarea")[0].value = data;
+          $("div#share-dialog #share_link_a")[0].href = data['ShortURL'];
+          $("div#share-dialog #share_link_textarea")[0].value = data['ShortURL'];
         }
       );
     }
