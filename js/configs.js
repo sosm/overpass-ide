@@ -20,7 +20,7 @@ export default {
     zoom: 9
   },
   maxMapZoom: 20,
-  short_url_service: "http://osm.li/get?",
+  short_url_service: "http://osm.li/get?url=",
   html2canvas_use_proxy: false,
   // api key for osmnames geocoder, go to http://osmnames.org/api/ to get one if you run your own overpass instance
   osmnamesApiKey: "gtXyh2mBSaN5zWqqqQRh",
