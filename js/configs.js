@@ -2,17 +2,17 @@ export default {
   appname: "overpass-turbo (CH)",
   defaultServer: "http://overpass.osm.ch/api/",
   suggestedServers: [
-    "http://overpass.osm.ch/api/",
+    "//overpass.osm.ch/api/",
     "//overpass-api.de/api/",
     "https://overpass.kumi.systems/api/",
     "http://overpass.openstreetmap.ru/cgi/",
     "//overpass.openstreetmap.fr/api/"
   ],
-  defaultTiles: "http://tile.osm.ch/switzerland/{z}/{x}/{y}.png",
+  defaultTiles: "https://tile.osm.ch/switzerland/{z}/{x}/{y}.png",
   tileServerAttribution: "&copy; OpenStreetMap.org contributors&ensp;<small>Data:ODbL, Map:cc-by-sa</small>",
   suggestedTiles: [
-    "http://tile.osm.ch/switzerland/{z}/{x}/{y}.png",
-    "http://tile.osm.ch/osm-swiss-style/{z}/{x}/{y}.png",
+    "https://tile.osm.ch/switzerland/{z}/{x}/{y}.png",
+    "https://tile.osm.ch/osm-swiss-style/{z}/{x}/{y}.png",
   ],
   defaultMapView: {
     lat: 47.0018,
@@ -20,7 +20,7 @@ export default {
     zoom: 9
   },
   maxMapZoom: 20,
-  short_url_service: "http://osm.li/get?url=",
+  short_url_service: "https://osm.li/get?url=",
   html2canvas_use_proxy: false,
   // api key for osmnames geocoder, go to http://osmnames.org/api/ to get one if you run your own overpass instance
   osmnamesApiKey: "gtXyh2mBSaN5zWqqqQRh",
