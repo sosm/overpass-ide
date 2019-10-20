@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"por senpere uzi kun la overpass API enhavas etenditajn mallongigojn kaj ne enhavas kromajn eblojn de overpass turbo kiel MapCSS.\">memstaran informpeton</abbr>",
     "export.format_text_raw": "<abbr title=\"neŝanĝita informpeto de overpass turbo - sama kiel en la kod-redaktilo\">krudan informpeton</abbr>",
     "export.format_text_wiki": "<abbr title=\"por uzi en la OSM-vikio kiel ŝablonon OverpassTurboExample\">OSM-vikion</abbr>",
-    "export.format_text_umap": "ligilon de foraj datumoj <abbr title=\"por uzi kun umap.openstreetmap.fr\">umap</abbr>",
+    "export.format_text_umap": "ligilon de foraj datumoj <abbr title=\"por uzi kun umap.osm.ch\">umap</abbr>",
     "export.to_xml": "konverti al <a id=\"export-convert-xml\" href=\"\" target=\"_blank\" class=\"external\">overpass-xml</a>",
     "export.to_ql": "konverti al (<a id=\"export-convert-compact\" href=\"\" target=\"_blank\" class=\"external\">densigita</a>) <a id=\"export-convert-ql\" href=\"\" target=\"_blank\" class=\"external\">OverpassQL</a>",
     "export.editors": "ŝargi datumojn al OSM-redaktilo:",

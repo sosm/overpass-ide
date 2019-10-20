@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"For direct use with the Overpass API, has expanded shortcuts and doesn't include additional overpass turbo features such as MapCSS.\">önálló lekérdezés</abbr>",
     "export.format_text_raw": "<abbr title=\"Unaltered overpass turbo query – just as in the code editor\">nyers lekérdezés</abbr>",
     "export.format_text_wiki": "<abbr title=\"For usage in the OSM wiki as a OverpassTurboExample-Template\">osm wiki</abbr>",
-    "export.format_text_umap": "<abbr title=\"Az umap.openstreetmap.fr oldallal történő használathoz\">uMap</abbr> távoli adat URL",
+    "export.format_text_umap": "<abbr title=\"Az umap.osm.ch oldallal történő használathoz\">uMap</abbr> távoli adat URL",
     "export.to_xml": "konvertálás <a id=\"export-convert-xml\" href=\"\" target=\"_blank\" class=\"external\">Overpass-XML</a> formátumra",
     "export.to_ql": "konvertálás (<a id=\"export-convert-compact\" href=\"\" target=\"_blank\" class=\"external\">kompakt</a>) <a id=\"export-convert-ql\" href=\"\" target=\"_blank\" class=\"external\">OverpassQL</a> formátumra",
     "export.editors": "adatok betöltése egy OSM szerkesztőbe:",

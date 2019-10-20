@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"Da usare con le API di Overpass, le scorciatoie sono estese ma non include le funzioni addizionali di Overpass turbo come MapCSS.\">Richiesta autonoma</abbr>",
     "export.format_text_raw": "<abbr title=\"Richiesta di overpass turbo inalterata – come quella nell’editor\">richiesta grezza</abbr>",
     "export.format_text_wiki": "<abbr title=\"Da utilizzare nella wiki di OpenStreetMap come modello di esempio per Overpass Turbo\">wiki OSM</abbr>",
-    "export.format_text_umap": "url dei dati remoti <abbr title=\"For usage with umap.openstreetmap.fr\">umap</abbr>",
+    "export.format_text_umap": "url dei dati remoti <abbr title=\"For usage with umap.osm.ch\">umap</abbr>",
     "export.to_xml": "converti in <a id=\"export-convert-xml\" href=\"\" target=\"_blank\" class=\"external\">Overpass-XML</a>",
     "export.to_ql": "converti in (<a id=\"export-convert-compact\" href=\"\" target=\"_blank\" class=\"external\">compatta</a>) <a id=\"export-convert-ql\" href=\"\" target=\"_blank\" class=\"external\">OverpassQL</a>",
     "export.editors": "carica dati in un editor OSM:",

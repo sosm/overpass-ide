@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"Für den Einsatz mit der Overpass API. Alle Kürzel sind expandiert und zusätzliche overpass turbo Features wie MapCSS sind nicht mehr vorhanden.\">eigenständige Abfrage</abbr>",
     "export.format_text_raw": "<abbr title=\"Unbearbeitete overpass turbo Abfrage – genau wie im Code-Editor\">rohe Abfrage</abbr>",
     "export.format_text_wiki": "<abbr title=\"Für die Verwendung im OSM Wiki als OverpassTurboExample-Template\">OSM Wiki</abbr>",
-    "export.format_text_umap": "<abbr title=\"Zur Nutzung mit umap.openstreetmap.fr\">umap</abbr> URL für ausgelagerte Daten",
+    "export.format_text_umap": "<abbr title=\"Zur Nutzung mit umap.osm.ch\">umap</abbr> URL für ausgelagerte Daten",
     "export.to_xml": "Nach <a id=\"export-convert-xml\" href=\"\" class=\"external\">Overpass-XML</a> konvertieren",
     "export.to_ql": "Nach <a id=\"export-convert-ql\" href=\"\" class=\"external\">OverpassQL</a> konvertieren (<a id=\"export-convert-compact\" href=\"\" class=\"external\">kompakte Variante</a>)",
     "export.editors": "In einen OSM-Editor laden:",

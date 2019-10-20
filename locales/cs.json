@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"Pro přímé použití s rozhraním Overpass API má rozšířené zkratky a neobsahuje další turbo funkce, jako je MapCSS.\">samostatný databázový dotaz</abbr>",
     "export.format_text_raw": "<abbr title=\"Nezměněné překročení turbo databázového dotazu - stejně jako v editoru kódu\">hrubý databázový dotaz</abbr>",
     "export.format_text_wiki": "<abbr title=\"Pro použití ve wiki OSM jako šablonu OverpassTurboExample\">osm wiki</abbr>",
-    "export.format_text_umap": "<abbr title=\"Pro použití s umap.openstreetmap.fr\">umap</abbr> URL na vzdálená data",
+    "export.format_text_umap": "<abbr title=\"Pro použití s umap.osm.ch\">umap</abbr> URL na vzdálená data",
     "export.to_xml": "konverze do <a id=\"export-convert-xml\" href=\"\" target=\"_blank\" class=\"external\">Overpass-XML</a>",
     "export.to_ql": "konverze do (<a id=\"export-convert-compact\" href=\"\" target=\"_blank\" class=\"external\">kompaktního</a>) <a id=\"export-convert-ql\" href=\"\" target=\"_blank\" class=\"external\">OverpassQL</a>",
     "export.editors": "načíst data do OSM editoru:",

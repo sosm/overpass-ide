@@ -81,7 +81,7 @@
     "export.format_text": "<abbr title=\"For direct use with the Overpass API, has expanded shortcuts and doesn't include additional overpass turbo features such as MapCSS.\">獨立檢索</abbr>",
     "export.format_text_raw": "<abbr title=\"Unaltered overpass turbo query – just as in the code editor\">原始檢索</abbr>",
     "export.format_text_wiki": "<abbr title=\"For usage in the OSM wiki as a OverpassTurboExample-Template\">osm wiki</abbr>",
-    "export.format_text_umap": "<abbr title=\"For usage with umap.openstreetmap.fr\">umap</abbr>遠端資料網址",
+    "export.format_text_umap": "<abbr title=\"For usage with umap.osm.ch\">umap</abbr>遠端資料網址",
     "export.to_xml": "轉換為<a id=\"export-convert-xml\" href=\"\" target=\"_blank\" class=\"external\">Overpass-XML</a>格式",
     "export.to_ql": "轉換為 (<a id=\"export-convert-compact\" href=\"\" target=\"_blank\" class=\"external\">壓縮</a>)的 <a id=\"export-convert-ql\" href=\"\" target=\"_blank\" class=\"external\">OverpassQL</a>格式",
     "export.editors": "載入資料到OSM編輯器",
