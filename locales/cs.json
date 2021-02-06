@@ -1,6 +1,7 @@
 {
     "nav.run": "Spustit",
     "nav.run_tt": "spustit tento databázový dotaz v rozhraní Overpass API",
+    "nav.rerender_tt": "parse the MapCSS and rerender the map",
     "nav.share": "Sdílet",
     "nav.share_tt": "získat trvalý odkaz pro tento databázový dotaz",
     "nav.export": "Exportovat",
@@ -184,6 +185,7 @@
     "dialog.close": "zavřít",
     "dialog.done": "hotovo",
     "dialog.abort": "přerušit",
+    "dialog.reset": "reset",
     "dialog.repair_query": "opravit databázový dotaz",
     "dialog.continue_anyway": "přesto pokračovat",
     "dialog.show_data": "zobrazit data",
@@ -229,6 +231,7 @@
     "data_stats.pois": "body zájmu",
     "data_stats.lines": "linie",
     "data_stats.polygons": "polygony",
+    "data_stats.request_duration": "Overpass request took",
     "data_stats.lag": "Současnost dat",
     "data_stats.lag_areas": "Současnost oblastí",
     "data_stats.lag.expl": "za hlavní OSM db",

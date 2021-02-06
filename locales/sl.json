@@ -1,6 +1,7 @@
 {
     "nav.run": "Poženi",
     "nav.run_tt": "execute this query on Overpass API",
+    "nav.rerender_tt": "parse the MapCSS and rerender the map",
     "nav.share": "Deli",
     "nav.share_tt": "get a permalink for this query",
     "nav.export": "Izvoz",
@@ -184,6 +185,7 @@
     "dialog.close": "zapri",
     "dialog.done": "končano",
     "dialog.abort": "prekliči",
+    "dialog.reset": "reset",
     "dialog.repair_query": "popravi poizvedbo",
     "dialog.continue_anyway": "vseeno nadaljuj",
     "dialog.show_data": "show data",
@@ -229,6 +231,7 @@
     "data_stats.pois": "točke",
     "data_stats.lines": "črte",
     "data_stats.polygons": "poligoni",
+    "data_stats.request_duration": "Overpass request took",
     "data_stats.lag": "Currentness of data",
     "data_stats.lag_areas": "Currentness of areas",
     "data_stats.lag.expl": "behind main OSM db",
